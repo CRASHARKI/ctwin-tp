@@ -7,7 +7,7 @@ It's compatible with all three regions of the game:
 -   NTSC-J (SLPM-65801)
 ## Content
 These are the improved textures included in this pack:
--   Boss galleries with variants. (WIP)
+-   Boss galleries with variants.
 -   Enemy galleries with variants. (WIP)
 -   Concept galleries with variants. (TODO)
 -   Storyboard galleries with variants. (TODO)
