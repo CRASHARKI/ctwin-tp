@@ -19,8 +19,8 @@ These are the improved textures included in this pack:
 -   Level Cards - German (TODO)
 -   Level Cards - Italian (TODO)
 -   Level Cards - Spanish
--   Level Cards - Japanese (WIP)
--   Level Cards - Japanese (Fixed proportions) (WIP)
+-   Level Cards - Japanese (Partially done, cancelled)
+-   Level Cards - Japanese (Fixed proportions) (Partially done, cancelled)
 -   Level icons.
 -   PlayStation exclusive save icon (Manually replace the one in "Icons" folder with this one to use)
 -   General screens (Loading, Game Over, Legal...)
